@@ -1,0 +1,59 @@
+
+---
+
+output: 
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+        highlightStyle: github
+        highlightLines: true
+        countIncrementalSlides: false
+---
+
+class: middle right 
+<style>
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+</style>
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#1B4F72", 
+  secondary_color = "#0E6251",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono")
+)
+```
+
+
+
+# **Création de site inter net**
+
+## Utilisation de netlify
+
+---
+
+## Créer un dossier sur votre ordinateur pour le site internet 
+
+### Nommer le dossier par exemple: `netlify`
+
+---
+
+## Créer un projet Rstudio sur votre ordinateur
+
+<video width="320" height="240" controls>
+  <source src="video1.mp4" type="video/mp4">
+</video>
+
+
