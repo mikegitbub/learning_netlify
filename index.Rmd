@@ -38,22 +38,104 @@ style_duo_accent(
 
 
 
-# **Création de site inter net**
+# **Création de site internet**
 
 ## Utilisation de netlify
 
 ---
+class:midlle left  
+background-image: url(https://images.unsplash.com/photo-1557487307-8dc8ec048eb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=634&q=80)
+background-size: 417px 589px
+background-position: 95% 50%
+.pull-left[
 
 ## Créer un dossier sur votre ordinateur pour le site internet 
 
 ### Nommer le dossier par exemple: `netlify`
 
+]
 ---
 
 ## Créer un projet Rstudio sur votre ordinateur
 
-<video width="320" height="240" controls>
+### Mettre le dossier projet qui sera généré dans un nouveau dossier: par exemple `usingnetlify`
+
+### Le dossier `usingnetlify` devra être dans le dossier initial `netlify`
+
+### Besoin de plus de détails? Voir prochaine vidéo
+
+---
+
+## Créer un projet Rstudio sur votre ordinateur
+
+<video width="640" height="480" controls>
   <source src="video1.mp4" type="video/mp4">
 </video>
 
+---
 
+class:middle left  
+background-image: url(https://images.unsplash.com/photo-1544654795-39ef9d3102bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80)
+background-size: 400px 600px
+background-position: 95% 50%
+
+.pull-left[
+
+## Créer un dossier dans le dossier projet `usingnetlify`. 
+
+### Nommer ce dossier `markdown` par exemple
+
+### Ce dossier comportera le fichier markdown du site internet et les autres fichiers qui seront générés par R
+
+]
+
+---
+
+## Créer un fichier markdown à partir de RStudio  
+
+* Mettre le fichier dans le dossier crée à l'étape précédente pour les fichiers `markdown`
+
+* Nommer le fichier markdown `index`
+
+* Personalisez le fichier markdown `index`
+
+* La prochaine slide explique le processus de création d'un fichier `markdown`
+
+* Pour plus d'informations sur la personalisation d'un fichier `markdown`, voir [ici](https://usingxaringan.netlify.app)
+
+---
+
+## Créer un fichier markdown à partir de RStudio  
+
+<video width="650" height="400" controls>
+  <source src="video2.mp4" type="video/mp4">
+</video>
+
+---
+
+## Créer un compte github et un "repository" pour le site
+
+<video width="650" height="400" controls>
+  <source src="video3.mp4" type="video/mp4">
+</video>
+
+---
+
+## Télécharger les fichiers du dossier markdown dans le repository github
+
+<video width="650" height="400" controls>
+  <source src="video4.mp4" type="video/mp4">
+</video>
+
+---
+
+## Créer un compte Nelify, le connecter au compte github, deployer le site et le renommer
+
+<video width="650" height="400" controls>
+  <source src="video5.mp4" type="video/mp4">
+</video>
+
+---
+
+class: middle right 
+## **Merci de votre attention**
