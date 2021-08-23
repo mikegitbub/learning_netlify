@@ -93,7 +93,7 @@ background-position: 95% 50%
 
 ## Créer un fichier markdown à partir de RStudio  
 
-* Mettre le fichier dans le dossier crée à l'étape précédente pour les fichiers `markdown`
+* Mettre le fichier dans le dossier créé à l'étape précédente pour les fichiers `markdown`
 
 * Nommer le fichier markdown `index`
 
@@ -129,7 +129,7 @@ background-position: 95% 50%
 
 ---
 
-## Créer un compte Nelify, le connecter au compte github, deployer le site et le renommer
+## Créer un compte Netlify, le connecter au compte github, deployer le site et le renommer
 
 <video width="650" height="400" controls>
   <source src="video5.mp4" type="video/mp4">
