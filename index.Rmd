@@ -147,9 +147,8 @@ background-position: 95% 50%
 ## Modifier le site à partir uniquement de github (recharger fichiers qui changent)
 
 <video width="650" height="400" controls>
-  <source src="video6.mp4" type="video/mp4">
+  <source src="video7.mp4" type="video/mp4">
   
 ---
-
 class: middle right 
 ## **Merci de votre attention**
