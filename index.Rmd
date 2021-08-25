@@ -38,7 +38,7 @@ style_duo_accent(
 
 
 
-# **Création de site internet - test MAJ**
+# **Création de site internet - j'essaie l'autre moyen de faire des changements**
 
 ## Utilisation de netlify
 
@@ -138,6 +138,13 @@ background-position: 95% 50%
 ---
 
 ## Modifier le site à partir uniquement de github (fichier html)
+
+<video width="650" height="400" controls>
+  <source src="video6.mp4" type="video/mp4">
+  
+---
+
+## Modifier le site à partir uniquement de github (recharger fichiers qui changent)
 
 <video width="650" height="400" controls>
   <source src="video6.mp4" type="video/mp4">
